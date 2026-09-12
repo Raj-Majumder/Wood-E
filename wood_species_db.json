@@ -1,0 +1,52 @@
+{
+    "cherry": {
+        "common_name": "Black Cherry",
+        "scientific_name": "Prunus serotina",
+        "janka_hardness_lbf": 950,
+        "density_kg_m3": 560,
+        "modulus_of_elasticity_psi": 1490000,
+        "tangential_shrinkage_pct": 7.1,
+        "radial_shrinkage_pct": 3.7,
+        "tangential_coefficient": 0.00248
+    },
+    "white_oak": {
+        "common_name": "White Oak",
+        "scientific_name": "Quercus alba",
+        "janka_hardness_lbf": 1360,
+        "density_kg_m3": 750,
+        "modulus_of_elasticity_psi": 1780000,
+        "tangential_shrinkage_pct": 10.5,
+        "radial_shrinkage_pct": 5.6,
+        "tangential_coefficient": 0.00365
+    },
+    "walnut": {
+        "common_name": "Black Walnut",
+        "scientific_name": "Juglans nigra",
+        "janka_hardness_lbf": 1010,
+        "density_kg_m3": 610,
+        "modulus_of_elasticity_psi": 1680000,
+        "tangential_shrinkage_pct": 7.8,
+        "radial_shrinkage_pct": 5.5,
+        "tangential_coefficient": 0.00274
+    },
+    "hard_maple": {
+        "common_name": "Hard Maple",
+        "scientific_name": "Acer saccharum",
+        "janka_hardness_lbf": 1450,
+        "density_kg_m3": 705,
+        "modulus_of_elasticity_psi": 1830000,
+        "tangential_shrinkage_pct": 9.9,
+        "radial_shrinkage_pct": 4.8,
+        "tangential_coefficient": 0.00353
+    },
+    "pine_wood": {
+        "common_name": "Eastern White Pine",
+        "scientific_name": "Pinus strobus",
+        "janka_hardness_lbf": 380,
+        "density_kg_m3": 400,
+        "modulus_of_elasticity_psi": 1240000,
+        "tangential_shrinkage_pct": 6.1,
+        "radial_shrinkage_pct": 2.1,
+        "tangential_coefficient": 0.00212
+    }
+}
